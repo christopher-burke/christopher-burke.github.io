@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>cburke.org</title><link href="https://cburke.org/" rel="alternate"></link><link href="https://cburke.org/feeds/all.atom.xml" rel="self"></link><id>https://cburke.org/</id><updated>2019-05-06T22:39:00-04:00</updated><subtitle>Christopher Burke's blog</subtitle><entry><title>Hello, World!</title><link href="https://cburke.org/first-post.html" rel="alternate"></link><published>2019-05-06T22:39:00-04:00</published><updated>2019-05-06T22:39:00-04:00</updated><author><name>Christopher Burke</name></author><id>tag:cburke.org,2019-05-06:/first-post.html</id><summary type="html">&lt;p&gt;My first blog post.&lt;/p&gt;</summary><content type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;hello_world&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;Hello, World!&amp;quot;&lt;/span&gt;
+
+&lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="vm"&gt;__name__&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;__main__&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;hello_world&lt;/span&gt;&lt;span class="p"&gt;())&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Hello, World! Welcome to my first blog post. I will begin writing about programming on this site. I am computer programmer and for a long time now I wanted to start writing about computer programming and other topics that interest me. Stay tuned there is more to come.&lt;/p&gt;
+&lt;p&gt;Thank you and Happy Coding.&lt;/p&gt;</content><category term="hello-world"></category><category term="first-post"></category></entry></feed>
